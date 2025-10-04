@@ -1,0 +1,10 @@
+.myenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.joblib
+*.png
+.DS_Store
+.env
